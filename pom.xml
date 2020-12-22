@@ -48,9 +48,9 @@
 				<groupId>org.springframework.boot</groupId>
 				<artifactId>spring-boot-maven-plugin</artifactId>
 				<configuration>
-					<image>
-						<name>docker.io/permmy12/${project.artifactId}:latest</name>
-					</image>
+<!--					<image>-->
+<!--						<name>docker.io/permmy12/${project.artifactId}:latest</name>-->
+<!--					</image>-->
 				</configuration>
 			</plugin>
 			<plugin>
