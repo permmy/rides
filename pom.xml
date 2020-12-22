@@ -10,7 +10,7 @@
 	</parent>
 	<groupId>com.rides</groupId>
 	<artifactId>rides-api</artifactId>
-	<version>0.0.1-RIDES</version>
+	<version>0.0.1</version>
 	<name>rides-api</name>
 	<description>Demo project for Spring Boot for theme park rides.</description>
 
